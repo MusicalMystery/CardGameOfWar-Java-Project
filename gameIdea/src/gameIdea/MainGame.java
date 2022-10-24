@@ -1,8 +1,3 @@
-
-//Final fix needed, fix the exception when you have another tie and one player has only one card
-
-
-
 package gameIdea;
 
 import java.util.Scanner;
